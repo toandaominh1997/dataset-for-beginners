@@ -1,5 +1,5 @@
-# datasets-for-start
-Datasets for start with Machine Learning
+# datasets-for-Beginners
+Datasets for beginners with Machine Learning
 
 ## Binray classification
  
